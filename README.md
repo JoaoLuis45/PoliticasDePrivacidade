@@ -1,4 +1,4 @@
-política de Privacidade
+Política de Privacidade
 ----------------
 
 ### Introdução
@@ -11,7 +11,7 @@ Os termos usados nesta Política de Privacidade têm os mesmos significados que 
 Para uma melhor experiência ao usar nosso Serviço, podemos exigir que você nos forneça certas informações de identificação pessoal, incluindo, entre outras, nome do usuário, endereço de e-mail, sexo, localização e fotos. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade.
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
-### Biscoitos
+### Cookies
 Cookies são arquivos com pequena quantidade de dados que são comumente usados como um identificador único anônimo. Estes são enviados para o seu navegador a partir do site que você visita e são armazenados na memória interna dos seus dispositivos.
 
 Este Serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
